@@ -13,7 +13,12 @@ added line on local feature branch hhh
 
  82692
  82693
+<<<<<<< HEAD
 =======
 iadded line 4 on hub
 1234
 
+=======
+ 
+ Server 99999
+>>>>>>> b33922a (Update Test.txt)
