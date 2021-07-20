@@ -22,4 +22,5 @@ added line on local feature branch hhh
  Before new branch
 
   Added one more line.
+  Testing multiple file changes.
 
