@@ -1,0 +1,50 @@
+iTesting line 1
+added line 2
+added line3 from hub
+
+
+
+=======
+=======
+
+iadded line 4 on hub
+1234
+qweererrqweererrqweererrqweererrqweererrqweererrqweererrqweererrqweererrqweererrqweererrqweererr
+
+
+
+=======
+
+pushed from local feature
+added line on local feature branch hhh
+
+82496
+ 82726 - 
+
+ 82692
+
+ 82692
+ 82693
+
+=======
+iadded line 4 on hub
+1234
+
+=======
+ 
+ Server 99999
+
+=======
+
+=======
+ 
+ Server 99999
+
+
+ Before new branch
+
+  Added one more line.
+  Testing multiple file changes 111.
+  
+  Added line 
+
